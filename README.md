@@ -1,1 +1,1 @@
-# cloud-itsm-lab
+A small IT service desk that runs entirely in the cloud. ServiceNow handles the tickets,and AWS watches your real projects and opens tickets automatically. It is built to practice,and to prove, the day-to-day skills of an IT Support Specialist.
