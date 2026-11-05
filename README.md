@@ -4,7 +4,7 @@ A small IT service desk I built in the cloud. ServiceNow handles the tickets. AW
 
 I built it to practice the everyday work of an IT support specialist: taking tickets, setting priority, sending them to the right team, tracking time promises (SLAs), writing help articles, handling approvals, and finding out why the same problem keeps coming back.
 
-**Status:** \[Say which weekends you finished, for example: Weekends 1 and 2 done, Weekend 3 in progress\] **Built:** \[month and year\] **Cost:** $0 \[change this if it stops being true\]
+**Status:** Weekends 1, 2 and 3 are done **Built:** Oct-Nov 2026 **Cost:** $0 
 
 ## What is in this lab
 
