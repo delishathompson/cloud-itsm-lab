@@ -8,8 +8,6 @@ I built it to practice the everyday work of an IT support specialist: taking tic
 
 ## What is in this lab
 
-Change \[ \] to \[x\] as you finish each one.
-
 - [x] A service desk in ServiceNow with fake users and teams
 - [x] Priority, ticket routing, and SLA timers
 - [x] Three help articles (password, VPN, MFA)
