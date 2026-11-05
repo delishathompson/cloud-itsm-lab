@@ -133,22 +133,6 @@ I used an AI assistant called Claude while working on this. Here is what each of
 
 ## What is in this repo
 
-```
-cloud-itsm-lab/
-  README.md
-  screenshots/
-  lambda/
-    itsm_alarm_to_incident.py
-  servicenow-exports/
-    weekend-1-update-set.xml
-    weekend-2-update-set.xml
-    weekend-3-update-set.xml
-    users.xml
-    groups.xml
-  knowledge-articles/
-    reset-password.md
-    connect-vpn.md
-    set-up-mfa.md
-```
 
-&#91;Your name\] | \[Portfolio link\] | \[LinkedIn link\]
+
+## Delisha Thompson | http://delisha-portfolio-site.s3-website-us-east-1.amazonaws.com/#about 
